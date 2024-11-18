@@ -85,7 +85,7 @@ I'm Keyur Ahuja, an author and entrepreneur. I love writing books and building s
 ---
 
 ## 💬 Learn More  
-Read the full blog post: [Every Crumb Counts: A Global Call for International Cooperation to Combat Food Waste with Humor and Consistent Branding](#)  
+Read the full blog post: [Every Crumb Counts: A Global Call for International Cooperation to Combat Food Waste with Humor and Consistent Branding](https://open.substack.com/pub/mindboundlabs/p/every-crumb-counts-a-global-call?r=19bbif&utm_campaign=post&utm_medium=web)  
 
 Let’s make food waste the exception, not the rule. Together, we can create a world where **every crumb counts**.  
 
