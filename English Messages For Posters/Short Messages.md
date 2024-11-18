@@ -1997,3 +1997,503 @@
 "Food’s too precious to waste—finish your meal!"
 
 "Waste-free plates for a waste-free world!"
+
+"Every bite counts—make it meaningful!"
+
+"Savor the flavor, save the planet!"
+
+"Waste not, love the Earth more!"
+
+"Take what you’ll eat, and eat what you take!"
+
+"Enjoy your meal, help the Earth!"
+
+"Waste less, enjoy more, love the planet!"
+
+"Food is precious—finish it!"
+
+"Every clean plate is a victory for the planet!"
+
+"Savor the last bite, save the world!"
+
+"Don’t toss it, taste it!"
+
+"Waste less food, create more memories!"
+
+"Take what you can finish—finish what you take!"
+
+"A full plate today, a greener tomorrow!"
+
+"Clean plates, healthy planet!"
+
+"Leftovers are tomorrow’s treasure!"
+
+"Finish your meal, finish your responsibility!"
+
+"Don’t waste food—it’s too good to toss!"
+
+"Savor every bite, save the Earth!"
+
+"Waste not, savor every flavor!"
+
+"Every clean plate is a step toward sustainability!"
+
+"Food is too valuable to waste—finish your plate!"
+
+"Order wisely, eat fully, waste nothing!"
+
+"Waste-free plates, happier hearts!"
+
+"Enjoy every bite—help make the planet bright!"
+
+"No food left behind—finish your meal!"
+
+"Food is a gift—don’t let it go to waste!"
+
+"Every clean plate is a gift to the planet!"
+
+"Take only what you’ll eat, and eat it all!"
+
+"Waste not, eat happily!"
+
+"Clean plates, cleaner planet!"
+
+"Finish your meal, love the Earth!"
+
+"Savor every bite—make it count!"
+
+"The Earth thanks you for every clean plate!"
+
+"Leftovers are tomorrow’s joy!"
+
+"Waste-free eating, happy living!"
+
+"Don’t waste, just taste!"
+
+"One less bite wasted, one happier world!"
+
+"Eat it all, feel good about it!"
+
+"No food left behind—enjoy your meal!"
+
+"Every bite counts—finish it!"
+
+"Food is too precious to waste—finish it!"
+
+"Savor every bite, and save the planet!"
+
+"Leftovers today, sustainability tomorrow!"
+
+"Waste less, smile more!"
+
+"Clean plates, happy Earth!"
+
+"Every clean plate is a win for the planet!"
+
+"Don’t toss it—taste it!"
+
+"Waste less food, create more joy!"
+
+"A full plate today, a better tomorrow!"
+
+"Finish your plate, save the Earth!"
+
+"Savor every bite, protect the Earth!"
+
+"Waste not, enjoy every bite!"
+
+"Every meal finished is a win for the planet!"
+
+"A clean plate today, a greener tomorrow!"
+
+"Order wisely, eat fully, waste none!"
+
+"Food should be enjoyed, not tossed!"
+
+"Don’t waste food, finish the love on your plate!"
+
+"Take what you can finish, and finish what you take!"
+
+"No food left behind—clean your plate!"
+
+"Food waste is so last season!"
+
+"Waste less, love more, eat smarter!"
+
+"Every bite you finish is a gift to the Earth!"
+
+"Take it, taste it, don’t waste it!"
+
+"A clean plate means a happy Earth!"
+
+"Don’t toss it—love it, eat it!"
+
+"Leftovers today, a sustainable future tomorrow!"
+
+"Food is life—don’t let it go to waste!"
+
+"Enjoy every bite—every clean plate helps!"
+
+"Waste-free eating, happy living!"
+
+"Take what you need, finish it with joy!"
+
+"Food’s too good to waste—finish your meal!"
+
+"Clean your plate, clean your conscience!"
+
+"Don’t waste what’s delicious—eat it all!"
+
+"Order what you’ll eat, eat what you’ve ordered!"
+
+"Waste less food, create more memories!"
+
+"Don’t toss it, savor it!"
+
+"A clean plate is a happy planet!"
+
+"Enjoy the meal, save the Earth!"
+
+"Waste less, eat more, smile often!"
+
+"Every bite counts towards a better world!"
+
+"Finish your plate—help the planet thrive!"
+
+"Food is too valuable to waste!"
+
+"Take what you’ll finish—enjoy every bite!"
+
+"A full plate today, a brighter tomorrow!"
+
+"Waste not, eat all!"
+
+"Savor the flavors, save the planet!"
+
+"Leave nothing behind but happiness!"
+
+"Clean your plate, clean the planet!"
+
+"Leftovers are just future meals in disguise!"
+
+"Waste less food, love the Earth more!"
+
+"Every clean plate is a step towards sustainability!"
+
+"Food is for eating, not for wasting!"
+
+"Enjoy every bite, and save the world!"
+
+"Waste-free eating is the best kind of eating!"
+
+"Finish what you start—help the Earth thrive!"
+
+"Food doesn’t belong in the trash—finish it!"
+
+"Every meal finished is a win for the planet!"
+
+"Take what you need, finish what you take!"
+
+"Waste less, enjoy more, save the Earth!"
+
+"Order smart, eat it all, and waste none!"
+
+"Take only what you’ll eat, and eat it all!"
+
+"Clean plates, happy Earth!"
+
+"Don’t toss it, taste it!"
+
+"Food is a gift—don’t waste it!"
+
+"Waste less, enjoy the best!"
+
+"Finish your plate, feel good about it!"
+
+"Every bite finished helps save the planet!"
+
+"Food should be enjoyed, not wasted!"
+
+"Take it, eat it, love it!"
+
+"Leave no plate behind—enjoy every bite!"
+
+"A clean plate today, a greener tomorrow!"
+
+"Waste-free plates, happy hearts!"
+
+"Every meal you finish is a win for the Earth!"
+
+"Order smart, eat fully, waste none!"
+
+"Finish your food, save the Earth!"
+
+"Don’t waste food—it’s a future you can taste!"
+
+"Food’s too precious to waste—clean your plate!"
+
+"Savor your meal, save the planet!"
+
+"One clean plate, one cleaner world!"
+
+"Waste less food, feel good about it!"
+
+"Take what you’ll eat, and eat what you’ve taken!"
+
+"A full plate today, a sustainable future tomorrow!"
+
+"No food goes to waste—finish your meal!"
+
+"Every leftover is a chance to make a difference!"
+
+"Waste not, eat a lot!"
+
+"Savor your meal, save the planet!"
+
+"Waste not, enjoy every bite!"
+
+"Clean plates, happier Earth!"
+
+"Take what you’ll finish—finish what you take!"
+
+"No leftovers, no waste—just enjoyment!"
+
+"Eat it all—don’t let it go to waste!"
+
+"Every bite counts—finish what you start!"
+
+"Love food, don’t waste it!"
+
+"Order smart, waste less, love more!"
+
+"Take it, eat it, love it, don’t waste it!"
+
+"Finish your food, save the Earth!"
+
+"Waste less food, feel more joy!"
+
+"Food is too good to waste—eat it all!"
+
+"Take what you can eat, and enjoy it!"
+
+"Don’t waste it, savor it!"
+
+"Every clean plate is a step toward sustainability!"
+
+"No food left behind—clean your plate!"
+
+"Waste-free plates for a waste-free world!"
+
+"Order wisely, waste nothing!"
+
+"Waste less, live better!"
+
+"Clean your plate, clean the planet!"
+
+"Finish it all, feel good about it!"
+
+"Savor the taste, save the Earth!"
+
+"Enjoy every bite—leave no waste behind!"
+
+"Every meal finished is a win for the world!"
+
+"Take what you need, and finish every bite!"
+
+"Waste less food, help the Earth thrive!"
+
+"Savor the last bite—save the world!"
+
+"Clean plates, cleaner future!"
+
+"One less bite wasted, one happier planet!"
+
+"Food is too precious to waste—eat it all!"
+
+"Finish your plate, leave no food behind!"
+
+"Waste less, eat more, enjoy the Earth!"
+
+"Take it, eat it, finish it, don’t waste it!"
+
+"Every bite finished is a victory for the planet!"
+
+"Don’t toss it—taste it all!"
+
+"Every meal you finish makes the Earth smile!"
+
+"Waste not, love the planet!"
+
+"Clean plates, happy Earth!"
+
+"Eat responsibly, waste nothing!"
+
+"Waste-free plates for a better world!"
+
+"Take only what you’ll finish, enjoy every bite!"
+
+"Leftovers are future meals—save them!"
+
+"Don’t waste food, give it the love it deserves!"
+
+"Finish your food, reduce your footprint!"
+
+"Food’s too good to waste—eat it all!"
+
+"Waste less, enjoy more, smile more!"
+
+"Savor your meal—don’t let it go to waste!"
+
+"One less bite wasted, one more reason to smile!"
+
+"Enjoy every bite, help save the planet!"
+
+"Waste not, eat fully!"
+
+"Every clean plate is a step toward sustainability!"
+
+"Food is a gift—cherish it!"
+
+"Take only what you’ll finish, finish every bite!"
+
+"Savor the moment, save the planet!"
+
+"Leftovers today, happy future tomorrow!"
+
+"Don’t toss it, taste it all!"
+
+"A clean plate today, a greener Earth tomorrow!"
+
+"Finish your food, save the Earth!"
+
+"Waste less, enjoy life more!"
+
+"Every meal finished is a win for the planet!"
+
+"Order smart, eat fully, waste nothing!"
+
+"Food is love—don’t let it go to waste!"
+
+"Take what you’ll eat, eat what you’ve taken!"
+
+"No food left behind—finish your meal!"
+
+"Waste not, savor every flavor!"
+
+"Every bite counts—eat it all!"
+
+"Finish it, love it, don’t waste it!"
+
+"The Earth thanks you for a clean plate!"
+
+"Take what you need, waste nothing!"
+
+"Every clean plate helps create a cleaner world!"
+
+"Savor the food, save the planet!"
+
+"Waste less, love more, eat smarter!"
+
+"Clean your plate, make a difference!"
+
+"Don’t waste food—it’s a gift!"
+
+"Every clean plate helps build a greener world!"
+
+"Savor every bite, save the planet!"
+
+"Waste not, taste every bite!"
+
+"Clean plates, happy Earth!"
+
+"Eat it all, love the Earth!"
+
+"No waste, just great taste!"
+
+"Food should be enjoyed, not discarded!"
+
+"One less bite wasted, one more reason to smile!"
+
+"Finish what you started—don’t waste food!"
+
+"Waste-free plates, sustainable future!"
+
+"Eat smart, waste less!"
+
+"A clean plate is a win for the Earth!"
+
+"Take only what you’ll eat, and enjoy every bite!"
+
+"Savor your meal, reduce your footprint!"
+
+"Don’t toss it—taste it all!"
+
+"Waste less food, create more joy!"
+
+"The Earth thanks you for every clean plate!"
+
+"Every meal finished helps the planet thrive!"
+
+"Eat all you take, take only what you need!"
+
+"No food left behind—finish your meal!"
+
+"Food is too precious to waste—eat it all!"
+
+"Waste not, enjoy every bite!"
+
+"Savor the flavor, save the world!"
+
+"Every meal you finish is a win for sustainability!"
+
+"Take what you need, finish what you take!"
+
+"Don’t waste it—taste it all!"
+
+"Every bite counts—make it meaningful!"
+
+"Order wisely, eat fully, waste none!"
+
+"Take what you’ll finish, and finish what you take!"
+
+"Waste less, enjoy more, help the Earth!"
+
+"Clean plates, happy planet!"
+
+"Love food, don’t waste it!"
+
+"One less bite wasted, one step closer to sustainability!"
+
+"Every meal finished is a victory for the planet!"
+
+"Finish what’s on your plate, finish the responsibility!"
+
+"Waste-free eating, joyful living!"
+
+"Food is for eating, not for wasting!"
+
+"Take it, taste it, don’t toss it!"
+
+"Enjoy the flavor, save the Earth!"
+
+"Leftovers today, sustainability tomorrow!"
+
+"Clean plates make the world a better place!"
+
+"Waste not, eat what you take!"
+
+"Savor every bite, save the planet!"
+
+"A clean plate is a step toward sustainability!"
+
+"Don’t waste food—it’s too good to toss!"
+
+"Eat it all, feel good about it!"
+
+"Order what you’ll finish, finish what you ordered!"
+
+"Waste less, love the Earth more!"
+
+"Every clean plate is a win for the world!"
+
+"Finish your food—help save the planet!"
