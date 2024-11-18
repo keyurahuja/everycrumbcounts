@@ -74,12 +74,22 @@ Executing this initiative globally would require **Promethean efforts**, includi
 
 ---
 
-## 📜 License  
-All resources in this repository are released under the **CC0 1.0 Universal License**. You are free to use, modify, and share the messages without restriction.  
+## 🚀 About Me
+I'm Keyur Ahuja, an author and entrepreneur. I love writing books and building startups. You can learn more by visiting my profile.
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://keyurahuja.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyur-ahuja/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KeyurAhuja)
+ 
 ---
 
 ## 💬 Learn More  
 Read the full blog post: [Every Crumb Counts: A Global Call for International Cooperation to Combat Food Waste with Humor and Consistent Branding](#)  
+
+---
+
+## 📜 License  
+All resources in this repository are released under the **CC0 1.0 Universal License**. You are free to use, modify, and share the messages without restriction.
 
 Let’s make food waste the exception, not the rule. Together, we can create a world where **every crumb counts**.  
